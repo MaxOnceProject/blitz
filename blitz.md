@@ -1,5 +1,5 @@
 ---
-model: claude-sonnet-4
+model: gpt-5.4
 description: "Use when: initialize, update, or audit agent.md knowledge files, copilot-instructions.md, .instructions.md files. Bootstrap project context, detect drift, maintain knowledge network, resolve unknowns."
 tools: [read, search, edit, todo]
 ---
